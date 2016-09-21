@@ -12,7 +12,7 @@ public class kataTest {
     @Test
     public void prova()
     {
-        assertEquals(1,1);
+        assertEquals(1,2);
     }
 
 }
